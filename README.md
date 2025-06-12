@@ -1,5 +1,5 @@
 ## Hello there, I'm Zakariyyaa 👋
-I'm an undergraduate at Imperial College London studying a MEng in Electrical and Electronic Engineering. I'm passionate about Robotics, Machine Learning and Edge AI.
+I'm an undergraduate at Imperial College London studying a MEng in Electrical and Electronic Engineering. I'm passionate about Robotics, Embedded System Design, Machine Learning and Edge AI.
 
 ## Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zakattack1045&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
